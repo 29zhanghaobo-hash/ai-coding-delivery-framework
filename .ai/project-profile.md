@@ -2,7 +2,7 @@
 
 ## Project Type
 
-Example values:
+示例取值：
 
 - frontend-only
 - backend-only
@@ -25,4 +25,4 @@ cross-team-dependency: false
 
 ## Purpose
 
-This file helps the framework load only the required extensions and constraints for a specific project.
+这个文件用于帮助框架只加载特定项目真正需要的扩展和约束。
