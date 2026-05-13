@@ -1,11 +1,11 @@
 # Goals Layer
 
-The goals layer defines:
+Goals Layer 定义：
 
-- Product intent
-- User value
-- Long-term direction
-- Non-breakable principles
-- Success indicators
+- 产品意图
+- 用户价值
+- 长期方向
+- 不可破坏的原则
+- 成功指标
 
-Goals should describe WHY a feature exists, not only WHAT to build.
+Goals 应该描述一个功能为什么存在，而不仅仅是要构建什么。
