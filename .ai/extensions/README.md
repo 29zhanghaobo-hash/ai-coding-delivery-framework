@@ -1,8 +1,8 @@
 # Extensions Layer
 
-Extensions allow the framework to adapt to different project types.
+Extensions 允许框架适配不同类型的项目。
 
-Examples:
+示例：
 
 - frontend-only
 - backend-only
@@ -13,4 +13,4 @@ Examples:
 - cui-gui-hybrid
 - external-runtime
 
-Projects should only enable the extensions they actually need.
+项目只应该启用自己真正需要的 Extensions。
