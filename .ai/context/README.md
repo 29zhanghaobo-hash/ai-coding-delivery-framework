@@ -1,8 +1,8 @@
 # Context Layer
 
-This layer contains structured project knowledge.
+这一层保存结构化的项目知识。
 
-Examples:
+示例：
 
 - project-map
 - module-index
@@ -12,4 +12,4 @@ Examples:
 - business-rules
 - dependency-map
 
-The purpose of this layer is to help AI agents understand the project before implementation.
+这一层的目标是在实现之前帮助 AI agents 理解项目。
