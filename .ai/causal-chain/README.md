@@ -1,12 +1,12 @@
 # Causal Chain Layer
 
-The causal chain layer connects:
+Causal Chain Layer 连接：
 
 Goal -> User Value -> Product Capability -> Functional Change -> Technical Change -> Verification
 
-This layer helps AI agents reason about:
+这一层帮助 AI agents 思考：
 
-- Why a change exists
-- Which implementation is more aligned with product value
-- What tradeoffs are acceptable
-- Whether delivery is truly complete
+- 变更为什么存在
+- 哪种实现更符合产品价值
+- 哪些权衡可以接受
+- 交付是否真正完成
