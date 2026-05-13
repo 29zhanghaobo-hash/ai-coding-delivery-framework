@@ -1,8 +1,8 @@
 # Skills Layer
 
-Skills are executable capability units inside the framework.
+Skills 是框架内部可执行的能力单元。
 
-Examples:
+示例：
 
 - requirement-clarify
 - context-retrieval
@@ -13,5 +13,5 @@ Examples:
 - verification-check
 - documentation-feedback
 
-The framework defines the operating model.
-Skills execute concrete tasks.
+框架定义运行模型。
+Skills 执行具体任务。
