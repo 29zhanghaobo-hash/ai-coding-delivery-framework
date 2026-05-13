@@ -1,8 +1,8 @@
 # Memory Layer
 
-This layer stores long-term project knowledge.
+这一层保存长期项目知识。
 
-Examples:
+示例：
 
 - architecture decisions
 - historical lessons
@@ -10,4 +10,4 @@ Examples:
 - recurring bugs
 - delivery learnings
 
-The purpose of this layer is to continuously improve AI delivery quality over time.
+这一层的目标是随着时间推移持续提升 AI 交付质量。
