@@ -1,8 +1,8 @@
 # Verification Layer
 
-Verification is not only about whether code can run.
+Verification 不只是确认代码能否运行。
 
-This layer validates:
+这一层验证：
 
 - Goal closure
 - User value delivery
@@ -11,4 +11,4 @@ This layer validates:
 - Regression risk
 - Product principle alignment
 
-Every delivery should include verifiable evidence.
+每次交付都应该包含可验证的证据。
