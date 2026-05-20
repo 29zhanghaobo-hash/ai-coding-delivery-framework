@@ -1,0 +1,8 @@
+{
+  "name": "pre-goal-context",
+  "type": "runtime",
+  "priority": 10,
+  "triggers": ["goal:pre"],
+  "runner": "run.py",
+  "description": "Build initial runtime context before goal execution"
+}
