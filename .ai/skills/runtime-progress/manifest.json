@@ -1,0 +1,8 @@
+{
+  "name": "runtime-progress",
+  "type": "runtime",
+  "priority": 20,
+  "triggers": ["goal:run"],
+  "runner": "run.py",
+  "description": "Capture runtime execution progress"
+}
