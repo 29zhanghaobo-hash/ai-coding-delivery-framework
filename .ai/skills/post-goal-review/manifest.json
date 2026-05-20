@@ -1,0 +1,8 @@
+{
+  "name": "post-goal-review",
+  "type": "runtime",
+  "priority": 30,
+  "triggers": ["goal:post"],
+  "runner": "run.py",
+  "description": "Generate lightweight review summary after goal execution"
+}
